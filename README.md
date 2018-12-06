@@ -1,4 +1,4 @@
-# dataX-fall2018
+# DataX Fall 2018 
 DataX Team 28 | Topic: Predicting Traffic Safety of Chicago Streets based on the frequency &amp; severity of accidents
 
 Team Members: 
